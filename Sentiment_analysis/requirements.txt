@@ -1,4 +1,3 @@
-﻿nltk
-scikit-learn
-pandas
+﻿vaderSentiment
+textblob
 
